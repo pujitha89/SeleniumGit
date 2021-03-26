@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6628" started-at="2021-03-11T21:58:11 GMT" finished-at="2021-03-11T21:58:18 GMT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6628" started-at="2021-03-11T21:58:11 GMT" finished-at="2021-03-11T21:58:18 GMT">
+      <class name="Log4J.Test1">
+        <test-method status="PASS" signature="reports()[pri:0, instance:Log4J.Test1@68e5eea7]" name="reports" is-config="true" duration-ms="462" started-at="2021-03-11T21:58:11 GMT" finished-at="2021-03-11T21:58:11 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reports -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Log4J.Test1@68e5eea7]" name="test" duration-ms="6103" started-at="2021-03-11T21:58:11 GMT" finished-at="2021-03-11T21:58:18 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- Log4J.Test1 -->
+      <class name="pujithaselenium.Mavenjava.FirstTest">
+        <test-method status="PASS" signature="test1()[pri:0, instance:pujithaselenium.Mavenjava.FirstTest@291b4bf5]" name="test1" duration-ms="3" started-at="2021-03-11T21:58:11 GMT" finished-at="2021-03-11T21:58:11 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:pujithaselenium.Mavenjava.FirstTest@291b4bf5]" name="test2" duration-ms="0" started-at="2021-03-11T21:58:11 GMT" finished-at="2021-03-11T21:58:11 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- pujithaselenium.Mavenjava.FirstTest -->
+      <class name="pujithaselenium.Mavenjava.SecondTest">
+        <test-method status="PASS" signature="sum()[pri:0, instance:pujithaselenium.Mavenjava.SecondTest@2d2ffcb7]" name="sum" duration-ms="0" started-at="2021-03-11T21:58:11 GMT" finished-at="2021-03-11T21:58:11 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- pujithaselenium.Mavenjava.SecondTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

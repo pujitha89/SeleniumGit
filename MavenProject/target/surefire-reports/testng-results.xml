@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="37521" started-at="2021-03-12T13:44:12 GMT" finished-at="2021-03-12T13:44:49 GMT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="37521" started-at="2021-03-12T13:44:12 GMT" finished-at="2021-03-12T13:44:49 GMT">
+      <class name="pujithaselenium.MavenProject.TitleValidation">
+        <test-method status="PASS" signature="BrowserOpen()[pri:0, instance:pujithaselenium.MavenProject.TitleValidation@6c3708b3]" name="BrowserOpen" is-config="true" duration-ms="6272" started-at="2021-03-12T13:44:16 GMT" finished-at="2021-03-12T13:44:22 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserOpen -->
+        <test-method status="PASS" signature="Validation()[pri:0, instance:pujithaselenium.MavenProject.TitleValidation@6c3708b3]" name="Validation" duration-ms="320" started-at="2021-03-12T13:44:22 GMT" finished-at="2021-03-12T13:44:23 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validation -->
+      </class> <!-- pujithaselenium.MavenProject.TitleValidation -->
+      <class name="pujithaselenium.MavenProject.LoginPageTC">
+        <test-method status="PASS" signature="BrowserOpen()[pri:0, instance:pujithaselenium.MavenProject.LoginPageTC@77f1baf5]" name="BrowserOpen" is-config="true" duration-ms="4231" started-at="2021-03-12T13:44:12 GMT" finished-at="2021-03-12T13:44:16 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserOpen -->
+        <test-method status="PASS" signature="AccountVerification(java.lang.String,java.lang.String)[pri:0, instance:pujithaselenium.MavenProject.LoginPageTC@77f1baf5]" name="AccountVerification" duration-ms="10488" started-at="2021-03-12T13:44:23 GMT" data-provider="getData" finished-at="2021-03-12T13:44:33 GMT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pujitha@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccountVerification -->
+        <test-method status="PASS" signature="AccountVerification(java.lang.String,java.lang.String)[pri:0, instance:pujithaselenium.MavenProject.LoginPageTC@77f1baf5]" name="AccountVerification" duration-ms="10248" started-at="2021-03-12T13:44:33 GMT" data-provider="getData" finished-at="2021-03-12T13:44:44 GMT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[poorna@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccountVerification -->
+        <test-method status="PASS" signature="AccountVerification(java.lang.String,java.lang.String)[pri:0, instance:pujithaselenium.MavenProject.LoginPageTC@77f1baf5]" name="AccountVerification" duration-ms="5604" started-at="2021-03-12T13:44:44 GMT" data-provider="getData" finished-at="2021-03-12T13:44:49 GMT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sai@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234567]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccountVerification -->
+        <test-method status="PASS" signature="BrowserClose()[pri:0, instance:pujithaselenium.MavenProject.LoginPageTC@77f1baf5]" name="BrowserClose" is-config="true" duration-ms="254" started-at="2021-03-12T13:44:49 GMT" finished-at="2021-03-12T13:44:49 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserClose -->
+      </class> <!-- pujithaselenium.MavenProject.LoginPageTC -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
