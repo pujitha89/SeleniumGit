@@ -1,0 +1,6 @@
+19:54:20.354 [main] INFO  io.cucumber.core.backend.StepDefinition - navigate to url
+19:55:22.429 [main] INFO  io.cucumber.core.backend.StepDefinition - navigate to url
+19:55:28.956 [main] INFO  io.cucumber.core.backend.StepDefinition - enter the invalid credentials
+19:55:28.957 [main] INFO  io.cucumber.core.backend.StepDefinition - printed the error message
+19:55:36.905 [main] INFO  io.cucumber.core.backend.StepDefinition - navigate to url
+19:55:47.310 [main] INFO  io.cucumber.core.backend.StepDefinition - enter the invalid credentials
